@@ -1,1 +1,3 @@
 Este não é um código livre para uso. Caso queira utilizá-lo, entre em contato comigo (Vitor Berniz Lopes). Caso queira falar comigo, basta me enviar uma mensagem por email (Vibelo_Dev@outlook.com)
+
+O código é funcional, você pode testar utilizando o arquivo "dicionario_portugues.txt". o "dicionario_portugues.txt" foi criado exclusivamente para testes. o código não funciona só com ele. por hora irá ficar assim até que eu encontre um banco de dados um pouco menor. no momento há esse para testes e um outro com 350 mil palavras, mas o código fica consideravelmente lento com o de 350 mil palavras, mas o código funciona.
