@@ -7,7 +7,7 @@ texto = input("Digite o texto que deseja corrigir: ")
 palavras = texto.split()
 
 # Abrindo um arquivo para leitura
-with open(r'dicionários\dicionario_portugues3.txt', 'r', encoding='utf-8') as arquivo:
+with open(r'dicionario_portugues.txt', 'r', encoding='utf-8') as arquivo:
     dicionário = arquivo.read()  # Lê o conteúdo do arquivo inteiro
 
 dicionário = dicionário.split()
